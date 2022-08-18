@@ -1,10 +1,9 @@
 #!/usr/bin/env bash
-# Simple script that prints Holberton School 10 times using a while loop
 # And in the 9th iteration print Hi.
 COUNTER=1
 while [ $COUNTER -ne 11 ]
 do
-    echo 'Holberton School'
+    echo 'Best School'
 
     if [ $COUNTER -eq 9 ]
     then
@@ -12,4 +11,4 @@ do
     fi
 
     COUNTER=$((COUNTER + 1))
-done
+doe
