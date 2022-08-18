@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
-# displays Holberton School 10 times.
+# displays Best School 10 times.
 
 COUNTER=10
+
 until [ $COUNTER -lt 1 ]
 do
     echo "Best School"
